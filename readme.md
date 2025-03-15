@@ -1,8 +1,9 @@
 #### Dotfiles of the tools I use regularly
 
 ---
-App list
+Tools list
 - glazewm + zebar
 - vscode
 - obsidian + excalidraw
 - flow launcher
+- Arc browser
