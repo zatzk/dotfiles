@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "e6776a9f617ff01a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6debabad7d5aedfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f9c0a752cdcc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Mandarin/202404191129 Flashcards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53e199598b88af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fa70f8ba613957",
+        "type": "tabs",
+        "dimension": 60.75000000000001,
+        "children": [
+          {
+            "id": "d66edbf0cc974e7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9339d7cc90b272a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "430b0c24ff325799",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "261dec30f72d98ca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "16648a15a6c9f45e",
+        "type": "tabs",
+        "dimension": 39.25,
+        "children": [
+          {
+            "id": "f05705fbe74d5fe3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "448bec5f1dec4c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "0498925c8f45de50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a27e19ffdf375150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Areas/Mandarin/202404191129 Flashcards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f77ea2201b111f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Areas/Mandarin/202404191129 Flashcards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d15cc4eb72d7fb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a7fd59b39a70f68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0b789c3e492a7923",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Areas/Mandarin/202404191129 Flashcards.md"
+              }
+            }
+          },
+          {
+            "id": "770e79f9bb2786c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02 - Areas/Mandarin/202404191129 Flashcards.md"
+              }
+            }
+          },
+          {
+            "id": "7d2834f5d86ec54e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "08f9c0a752cdcc34",
+  "lastOpenFiles": [
+    "05 - Fleeting/Aton/envs/202404231312 env backend.md",
+    "05 - Fleeting/Aton/tasks/202404241107 Aton Tasks.md",
+    "01 - Projects/Codx app/202404112112 CodX notes.md",
+    "06 - Daily/20240604.md",
+    "06 - Daily/20240502.md",
+    "05 - Fleeting/Aton/tasks/ED-202404251117.excalidraw.md",
+    "06 - Daily/20240428.md",
+    "06 - Daily/20240430.md",
+    "06 - Daily/20240429.md",
+    "01 - Projects/Codx app/CodX aggregate.canvas",
+    "01 - Projects/Codx app/Codx-Platform.excalidraw.md",
+    "01 - Projects/Codx app/Codx-AppMap.excalidraw.md",
+    "06 - Daily/20240427.md",
+    "02 - Areas/Computer Science",
+    "02 - Areas/Mathematics",
+    "05 - Fleeting/Aton/tasks",
+    "05 - Fleeting/Aton",
+    "06 - Daily/20240426.md",
+    "06 - Daily/20240423.md",
+    "06 - Daily/20240427.sync-conflict-20240427-191932-OBLBLXL.md",
+    "06 - Daily/20240427.sync-conflict-20240427-191928-OBLBLXL.md",
+    "06 - Daily/~syncthing~20240427.sync-conflict-20240427-191932-OBLBLXL.md.tmp",
+    "06 - Daily/~syncthing~20240427.md.tmp",
+    "02 - Areas/Deutsch",
+    "06 - Daily/20240425.md",
+    "06 - Daily/20240424.md",
+    "02 - Areas/Mandarin/202404191129 Flashcards.md",
+    "05 - Fleeting/Aton/envs/202404241028 default.conf.md",
+    "05 - Fleeting/Aton/envs/202404241027 proxy.conf.js.md",
+    "05 - Fleeting/Aton/envs",
+    "05 - Fleeting/Aton/envs/202404241026 environment.ts.md",
+    "06 - Daily/20240412.md",
+    "update submenu add visualizacoes.md",
+    "06 - Daily/20240422.md",
+    "06 - Daily/20240421.md",
+    "99 - Meta/attachments/Pasted image 20240418101359.png",
+    "99 - Meta/attachments/Pasted image 20240418101705.png",
+    "99 - Meta/attachments/Pasted image 20240418101252.png",
+    "07 - Archives/Daily notes",
+    "01 - Projects/Codx app",
+    "99 - Meta/attachments/GTD_Todoist_Flowchart.webp"
+  ]
+}

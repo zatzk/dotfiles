@@ -1,0 +1,24 @@
+{
+  "accentColor": "#43cfea",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "JetBrainsMono NFM",
+  "textFontFamily": "JetBrainsMono NFM",
+  "monospaceFontFamily": "JetBrainsMono NFM",
+  "enabledCssSnippets": [
+    "retro-notebook-bg",
+    "Daily Note",
+    "Runescape",
+    "Japanese Fonts",
+    "Japanese Font Support",
+    "Minecraft",
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "CyanVoxel's General Tweaks",
+    "Notebook Backgrounds",
+    "JetBrainsMonoNerd"
+  ],
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}
